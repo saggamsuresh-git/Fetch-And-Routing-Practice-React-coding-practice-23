@@ -1,0 +1,13 @@
+/* .home-bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+*/
+@media screen and (max-width: 567px) {
+  .home-bg {
+    padding: 10px;
+  }
+}
